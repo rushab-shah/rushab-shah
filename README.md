@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/rushab-shah/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushab-shah&hide=jupyter%20notebook&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushab-shah&hide=jupyter%20notebook&theme=dark" />
   </a>
   <a href="https://github.com/rushab-shah/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushab-shah&show_icons=true&theme=dark" />
