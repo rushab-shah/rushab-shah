@@ -1,6 +1,6 @@
 
 ## LeetCode stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/rushabshah?ext=activity,ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rushabshah?ext=heatmap)
 <!--
 **rushab-shah/rushab-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
