@@ -1,6 +1,7 @@
 
 ## LeetCode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rushabshah?ext=heatmap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushab-shah&hide=jupyter%20notebook)](https://github.com/rushab-shah/github-readme-stats)
 ![Rushab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushab-shah&show_icons=true&theme=dark)
 <!--
 **rushab-shah/rushab-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
