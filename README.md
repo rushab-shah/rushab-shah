@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=rushab-shah&color=green)
 <div>
   <h1>GitHub stats</h1>
   <a href="https://github.com/rushab-shah/github-readme-stats">
