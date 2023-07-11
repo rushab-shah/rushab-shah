@@ -14,9 +14,9 @@
 <!--   <a href="https://github.com/rushab-shah/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushab-shah&show_icons=true&theme=dark" />
   </a> -->
-</div>
+<!-- </div>
 <br>
-<div>
+<div> -->
   <h1>LeetCode Stats</h1>
   <img align="center" src="https://leetcard.jacoblin.cool/rushabshah?ext=heatmap" />
 </div>
