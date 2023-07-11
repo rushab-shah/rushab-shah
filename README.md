@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 <a href="https://www.linkedin.com/in/rushabrshah/">
-  <img align="left" alt="Rushab's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rushab's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=rushab-shah&color=green)
